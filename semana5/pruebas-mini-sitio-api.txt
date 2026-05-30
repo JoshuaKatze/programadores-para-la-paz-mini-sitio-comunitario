@@ -1,63 +1,46 @@
 Pruebas del mini-sitio y API – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Prueba 1: Abrir mini-sitio
-
 Dirección:
 http://localhost:3000
-
 Resultado esperado:
 El navegador muestra el mini-sitio comunitario.
-
-Resultado observado:
-
+Resultado observado: El sitio carga correctamente con la vista principal.
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí
 
 Prueba 2: Cargar mensajes
-
 Acción:
 Hacer clic en Cargar mensajes.
-
 Resultado esperado:
 Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente.
-
-Resultado observado:
-
+Resultado observado: Los mensajes se inyectaron dinámicamente en pantalla y muestran toda la estructura.
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí
 
 Prueba 3: Cargar calendario editorial
-
 Acción:
 Hacer clic en Cargar calendario.
-
 Resultado esperado:
 Aparecen 6 piezas del calendario editorial.
-
-Resultado observado:
-
+Resultado observado: Las 6 piezas cargaron correctamente en formato de tarjeta.
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí
 
 Prueba 4: Ruta directa de mensajes
-
 Ruta:
 http://localhost:3000/api/mensajes
-
-Resultado observado:
+Resultado observado: El navegador me devolvió un archivo de texto en formato JSON puro con la información de los mensajes.
 
 Prueba 5: Ruta directa de calendario
-
 Ruta:
 http://localhost:3000/api/calendario
-
-Resultado observado:
+Resultado observado: El navegador me devolvió el archivo JSON con los datos del calendario editorial.
 
 Conclusión:
 ¿Qué prueba te ayudó más a entender cómo el mini-sitio consume la API?
-
-Respuesta:
+Respuesta: Las pruebas 4 y 5, porque me permitieron ver la información "cruda" tal y como el frontend la recibe antes de ordenarla visualmente en las tarjetas de la pantalla.

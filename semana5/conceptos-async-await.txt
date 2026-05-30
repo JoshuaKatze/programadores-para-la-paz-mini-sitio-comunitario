@@ -1,47 +1,36 @@
 Conceptos básicos de async y await – Clase 21
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Responde con tus propias palabras.
 
-1. ¿Qué es una promesa en JavaScript?
+1. ¿Qué es una promesa en JavaScript? 
+Respuesta: Es un objeto que representa una tarea que puede tomar tiempo en completarse (como pedir datos a un servidor). Promete que en algún momento nos dará un resultado o un error.
 
-Respuesta:
-
-2. ¿Qué significa async?
-
-Respuesta:
+2. ¿Qué significa async? 
+Respuesta: Es una palabra clave que le ponemos a una función para avisarle a JavaScript que ahí dentro habrá operaciones que toman tiempo (asíncronas).
 
 3. ¿Qué significa await?
+Respuesta: Es una instrucción que pausa la ejecución dentro de una función asíncrona hasta que la promesa se resuelva, permitiéndonos recibir los datos listos para usar.
 
-Respuesta:
-
-4. ¿Por qué fetch devuelve una promesa?
-
-Respuesta:
+4. ¿Por qué fetch devuelve una promesa? 
+Respuesta: Porque cuando usamos "fetch" para buscar datos en internet, la respuesta no es instantánea. Nos devuelve una promesa mientras espera que lleguen los datos.
 
 5. ¿Qué diferencia viste entre .then() y async/await?
+Respuesta: "async/await" hace que el código se vea mucho más ordenado y se lea de arriba hacia abajo, evitando encadenar múltiples ".then()" que pueden confundir.
 
-Respuesta:
-
-6. ¿Qué hace try en esta práctica?
-
-Respuesta:
+6. ¿Qué hace try en esta práctica? 
+Respuesta: Envuelve el bloque de código que intenta comunicarse con el servidor, para probar si funciona correctamente.
 
 7. ¿Qué hace catch en esta práctica?
+Respuesta: Captura cualquier error que ocurra dentro del bloque "try" (como si el servidor está caído), evitando que la página web colapse sin avisarnos.
 
-Respuesta:
-
-8. ¿Qué ruta se usa para cargar mensajes?
-
-Respuesta:
+8. ¿Qué ruta se usa para cargar mensajes? 
+Respuesta: /api/mensajes
 
 9. ¿Qué ruta se usa para cargar calendario editorial?
+Respuesta: /api/calendario
 
-Respuesta:
-
-10. ¿Cómo ayuda async y await a leer mejor el código?
-
-Respuesta:
+10. ¿Cómo ayuda async y await a leer mejor el código? 
+Respuesta: Nos permite escribir código asíncrono como si fuera síncrono. Es decir, podemos leerlo de forma directa y secuencial, haciéndolo mucho más fácil de entender y mantener.

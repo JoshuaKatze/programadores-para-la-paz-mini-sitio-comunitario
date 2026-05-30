@@ -1,61 +1,46 @@
-Bitácora Git del proyecto vivo – Clase 21
+Bitácora Git del proyecto vivo – Clase 21 
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
-
-1. Nombre del repositorio único de Semana 5:
-
-Respuesta:
+1. Nombre del repositorio único de Semana 5: 
+Respuesta: programadores-para-la-paz-mini-sitio-comunitario
 
 2. ¿Qué rama actualizan los docentes?
+Respuesta: La rama main.
 
-Respuesta:
+3. ¿Qué rama usa cada estudiante para trabajar? 
+Respuesta: Cada estudiante usa una rama personal con el formato nombres_apellidos (en mi caso joshua_fernandez).
 
-3. ¿Qué rama usa cada estudiante para trabajar?
+4. Comando usado para clonar el repositorio: 
+Respuesta: git clone URL_DEL_REPOSITORIO
 
-Respuesta:
+5. Comando usado para entrar a la carpeta del proyecto: 
+Respuesta: cd programadores-para-la-paz-mini-sitio-comunitario
 
-4. Comando usado para clonar el repositorio:
+6. Comando usado para crear tu rama personal: 
+Respuesta: git checkout -b joshua_fernandez
 
-Respuesta:
-
-5. Comando usado para entrar a la carpeta del proyecto:
-
-Respuesta:
-
-6. Comando usado para crear tu rama personal:
-
-Respuesta:
-
-7. Comando usado para verificar la rama actual:
-
-Respuesta:
+7. Comando usado para verificar la rama actual: 
+Respuesta: git branch
 
 8. Comando que se usará desde la Clase 22 para traer cambios de main:
+Respuesta: git pull --ff-only origin main
 
-Respuesta:
-
-9. Explica con tus palabras qué significa fast-forward:
-
-Respuesta:
+9. Explica con tus palabras qué significa fast-forward: 
+Respuesta: Es una forma directa de actualizar nuestra rama con los últimos cambios, avanzando de forma lineal sin crear enredos ni commits extra.
 
 10. ¿Por qué no se debe trabajar directamente en main?
+Respuesta: Para no dañar la versión estable del proyecto. Trabajar en nuestra propia rama nos da un espacio seguro para probar los cambios.
 
-Respuesta:
+11. Comando usado para revisar cambios al final: 
+Respuesta: git status
 
-11. Comando usado para revisar cambios al final:
+12. Comando usado para agregar cambios: 
+Respuesta: git add .
 
-Respuesta:
+13. Comando usado para crear commit: 
+Respuesta: git commit -m "Clase 21 inicio proyecto unico mini sitio"
 
-12. Comando usado para agregar cambios:
-
-Respuesta:
-
-13. Comando usado para crear commit:
-
-Respuesta:
-
-14. Comando usado para publicar tu rama:
-
-Respuesta:
+14. Comando usado para publicar tu rama: 
+Respuesta: git push -u origin joshua_fernandez

@@ -1,79 +1,42 @@
 Checklist de difusión responsable – Clase 21
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Marca SÍ o NO y explica brevemente.
 
-1. Difusión responsable
+1. Difusión responsable ¿El mensaje aporta información útil para la comunidad?
+Respuesta: Sí, aporta lineamientos de convivencia y organización claros.
 
-¿El mensaje aporta información útil para la comunidad?
+2. Planificación del calendario editorial ¿La publicación está organizada por fecha, canal, responsable y propósito?
+Respuesta: Sí, todas las propiedades están definidas en el JSON correspondiente.
 
-Respuesta:
+3. Calendario editorial ¿La pieza está ubicada dentro de una secuencia de publicaciones de dos semanas?
+Respuesta: Sí, están divididas explícitamente entre la semana 1 y 2.
 
-2. Planificación del calendario editorial
+4. Revisión de fuentes ¿El mensaje indica fuente o criterio de verificación cuando hace afirmaciones?
+Respuesta: Sí, cada tarjeta indica de dónde sale la información.
 
-¿La publicación está organizada por fecha, canal, responsable y propósito?
+5. Consistencia comunicativa ¿El mensaje mantiene coherencia con el propósito general de la campaña?
+Respuesta: Sí, todo gira en torno al respeto digital y prevención de desinformación.
 
-Respuesta:
+6. Consistencia editorial ¿El tono, el lenguaje y el llamado a la acción son coherentes con las demás piezas?
+Respuesta: Sí, existe unidad y el llamado a la acción es propositivo.
 
-3. Calendario editorial
+7. Moderación editorial básica ¿El mensaje debería revisarse antes de publicarse?
+Respuesta: Sí, siempre es prudente una segunda lectura para evitar malentendidos.
 
-¿La pieza está ubicada dentro de una secuencia de publicaciones de dos semanas?
+8. Público objetivo ¿Está claro a quién va dirigido?
+Respuesta: Sí, especifica si va a líderes, jóvenes o comunidad general.
 
-Respuesta:
+9. Tono ¿El tono es adecuado para la audiencia?
+Respuesta: Sí, mantiene una postura pedagógica y preventiva.
 
-4. Revisión de fuentes
+10. Llamado a la acción ¿La persona que lee sabe qué hacer después?
+Respuesta: Sí, todas las instrucciones como "Revisa la fuente" son precisas.
 
-¿El mensaje indica fuente o criterio de verificación cuando hace afirmaciones?
+11. Lenguaje responsable y no estigmatizante ¿El mensaje evita insultos, generalizaciones, alarmismo, exclusión o señalamientos sin evidencia?
+Respuesta: Sí, fomenta exclusivamente una cultura de paz.
 
-Respuesta:
-
-5. Consistencia comunicativa
-
-¿El mensaje mantiene coherencia con el propósito general de la campaña?
-
-Respuesta:
-
-6. Consistencia editorial
-
-¿El tono, el lenguaje y el llamado a la acción son coherentes con las demás piezas?
-
-Respuesta:
-
-7. Moderación editorial básica
-
-¿El mensaje debería revisarse antes de publicarse?
-
-Respuesta:
-
-8. Público objetivo
-
-¿Está claro a quién va dirigido?
-
-Respuesta:
-
-9. Tono
-
-¿El tono es adecuado para la audiencia?
-
-Respuesta:
-
-10. Llamado a la acción
-
-¿La persona que lee sabe qué hacer después?
-
-Respuesta:
-
-11. Lenguaje responsable y no estigmatizante
-
-¿El mensaje evita insultos, generalizaciones, alarmismo, exclusión o señalamientos sin evidencia?
-
-Respuesta:
-
-12. Minimización de datos
-
-¿El mensaje evita publicar datos personales innecesarios?
-
-Respuesta:
+12. Minimización de datos ¿El mensaje evita publicar datos personales innecesarios?
+Respuesta: Sí, no se están exponiendo datos sensibles de la comunidad.
