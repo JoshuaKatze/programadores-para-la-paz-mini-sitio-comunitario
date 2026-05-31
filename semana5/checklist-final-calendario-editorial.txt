@@ -1,67 +1,46 @@
 Checklist final del calendario editorial – Clase 25
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Marca SÍ o NO y explica brevemente.
 
 1. Calendario editorial
-
 ¿El calendario tiene dos semanas de planificación?
-
-Respuesta:
+Respuesta: SÍ. Las fechas de las piezas abarcan un rango de 14 días lógicos.
 
 2. Seis piezas
-
 ¿El calendario tiene al menos seis piezas?
-
-Respuesta:
+Respuesta: SÍ. El archivo JSON contiene exactamente un arreglo con seis objetos documentados.
 
 3. Fecha o momento de publicación
-
 ¿Cada pieza tiene fecha, día o momento definido?
-
-Respuesta:
+Respuesta: SÍ. Cada objeto en el JSON tiene una clave "fecha" con un valor asignado.
 
 4. Tema
-
 ¿Cada pieza tiene un tema claro?
-
-Respuesta:
+Respuesta: SÍ. Los temas van desde cuidado del agua hasta jornadas de vacunación, todos relevantes.
 
 5. Público objetivo
-
 ¿Cada pieza define público objetivo?
-
-Respuesta:
+Respuesta: SÍ. Clasifica si va a público general, jóvenes, adultos mayores, etc.
 
 6. Propósito
-
 ¿Cada pieza tiene propósito comunitario?
-
-Respuesta:
+Respuesta: SÍ. Todas buscan informar, educar o convocar para mejorar el entorno.
 
 7. Responsable
-
 ¿Cada pieza define responsable?
-
-Respuesta:
+Respuesta: SÍ. Se indica qué comité o grupo vecinal lidera la iniciativa.
 
 8. Revisión de fuentes
-
 ¿Cada pieza incluye fuente o criterio de verificación?
-
-Respuesta:
+Respuesta: SÍ. Se apoya en datos de comités, juntas de acción u organizaciones verificables.
 
 9. Consistencia comunicativa
-
 ¿Las piezas mantienen coherencia entre sí?
-
-Respuesta:
+Respuesta: SÍ. Todas manejan un formato estructurado y un tono constructivo.
 
 10. Lenguaje responsable y no estigmatizante
-
 ¿Las piezas evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
-
-Respuesta:
+Respuesta: SÍ. El lenguaje es integrador, respetuoso y fomenta la participación ciudadana en paz.

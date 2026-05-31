@@ -42,4 +42,11 @@ En tu respuesta menciona al menos ocho de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Al mirar en retrospectiva desde las primeras clases hasta la culminación de este proyecto único en GitHub, mi forma de
+trabajar ha evolucionado significativamente. Ya no solo escribo código suelto, sino que manejo un repositorio estructurado, utilizando 
+comandos como commit y push dentro de mi rama personal para llevar una trazabilidad limpia. Técnicamente, pasé de páginas estáticas a 
+construir un sistema vivo donde el frontend, usando async, await y fetch, se alimenta de una API propia que devuelve archivos JSON. 
+Pero el aprendizaje más valioso no fue solo técnico (como implementar un middleware simple), sino social. Entendí que un tablero de 
+mensajes y un calendario editorial no son solo componentes visuales, sino herramientas para la difusión responsable y la participación 
+ciudadana. Al aplicar una moderación editorial básica y un lenguaje responsable y no estigmatizante, garantizamos que la tecnología 
+esté realmente al servicio de las personas, construyendo confianza y aportando a una verdadera cultura de paz en nuestra comunidad.

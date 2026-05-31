@@ -1,69 +1,46 @@
 Evidencia dual de Semana 5 – Clase 25
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 La evidencia dual de Semana 5 está compuesta por:
 
 1. Mini-sitio que consume API
-
 Describe brevemente qué hace el mini-sitio:
-
-Respuesta:
-
+Respuesta: Es una plataforma comunitaria que renderiza dinámicamente información desde un backend propio, sirviendo como vitrina informativa.
 Rutas probadas:
-
-Respuesta:
+Respuesta: /api/mensajes, /api/calendario, /api/resumen, /api/login, y la ruta protegida.
 
 2. README versionado en Git
-
 Explica qué información contiene el README:
-
-Respuesta:
+Respuesta: Contiene la transferencia tecnológica del proyecto: propósito, pasos de instalación, descripción de rutas, advertencias de seguridad y flujo de uso.
 
 3. Calendario editorial de dos semanas
-
 Describe el tema general del calendario editorial:
-
-Respuesta:
-
+Respuesta: Campañas de concientización e información para mejorar la convivencia y el entorno en el barrio.
 Número de piezas:
-
-Respuesta:
+Respuesta: 6 piezas organizadas estratégicamente.
 
 4. Difusión responsable
-
 ¿Cómo garantiza el proyecto una difusión responsable?
-
-Respuesta:
+Respuesta: Usando un modelo centralizado (backend) donde los datos pasan por una moderación antes de ser consumidos y dibujados por el frontend.
 
 5. Revisión de fuentes
-
 ¿Cómo se revisa o menciona la fuente de la información?
-
-Respuesta:
+Respuesta: El JSON tiene un atributo obligatorio de "fuente" en cada pieza, garantizando que todo mensaje esté respaldado.
 
 6. Consistencia comunicativa
-
 ¿Cómo se mantiene coherencia entre mensajes y piezas?
-
-Respuesta:
+Respuesta: A través de una curaduría de datos visuales y manteniendo un diseño de tarjetas unificado mediante CSS.
 
 7. Moderación editorial básica
-
 ¿Qué criterios se deben revisar antes de publicar?
-
-Respuesta:
+Respuesta: Veracidad de la fuente, uso de lenguaje no estigmatizante, ortografía y que el llamado a la acción sea claro.
 
 8. GitHub y trazabilidad
-
 ¿Qué commits o avances registraste durante la semana?
-
-Respuesta:
+Respuesta: Múltiples commits progresivos desde la creación del proyecto (Clase 21) hasta este cierre integrador (Clase 25).
 
 9. Conclusión personal
-
 ¿Por qué este proyecto es más completo que un ejercicio técnico aislado?
-
-Respuesta:
+Respuesta: Porque combina lógica de programación (Node, Express, Fetch) con impacto social real. No solo hicimos que "el código corra", sino que construimos una herramienta pensada para las necesidades, la seguridad visual y la paz de una comunidad.

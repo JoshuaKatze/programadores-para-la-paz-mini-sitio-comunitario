@@ -1,67 +1,46 @@
 Checklist final del mini-sitio – Clase 25
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Marca SÍ o NO y explica brevemente.
 
 1. Mini-sitio
-
 ¿El mini-sitio abre correctamente en http://localhost:3000?
-
-Respuesta:
+Respuesta: SÍ. Al correr "npm run sitio", el servidor levanta sin problemas y la interfaz gráfica carga en el navegador.
 
 2. API propia
-
 ¿El mini-sitio consume datos desde la API propia?
-
-Respuesta:
+Respuesta: SÍ. La aplicación no usa datos quemados en el HTML, sino que le pide la información al servidor mediante endpoints como /api/mensajes.
 
 3. Tablero de mensajes
-
 ¿Los mensajes se cargan dinámicamente?
-
-Respuesta:
+Respuesta: SÍ. A través de fetch y manipulando el DOM, las tarjetas se construyen en tiempo real basándose en el JSON.
 
 4. Calendario editorial
-
 ¿El calendario editorial se muestra correctamente?
-
-Respuesta:
+Respuesta: SÍ. Las piezas planificadas se renderizan en sus respectivas tarjetas tras hacer clic en el botón.
 
 5. Resumen
-
 ¿La sección de resumen carga información desde el backend?
-
-Respuesta:
+Respuesta: SÍ. Muestra las métricas calculadas por el servidor de forma rápida.
 
 6. Login pedagógico
-
 ¿El login pedagógico responde correctamente?
-
-Respuesta:
+Respuesta: SÍ. Al ingresar 'docente' y 'demo', el sistema nos valida y nos entrega un token de demostración en el LocalStorage.
 
 7. Middleware simple
-
 ¿La ruta protegida responde solo después de usar el token de demostración?
-
-Respuesta:
+Respuesta: SÍ. Si intento acceder sin loguearme antes, el servidor me niega el acceso por falta de autorización.
 
 8. Accesibilidad mínima
-
 ¿La interfaz tiene títulos, secciones y textos legibles?
-
-Respuesta:
+Respuesta: SÍ. Utilizamos buen contraste, estructura jerárquica con etiquetas semánticas y CSS básico.
 
 9. Minimización de datos visibles
-
 ¿La vista pública evita mostrar datos innecesarios?
-
-Respuesta:
+Respuesta: SÍ. Filtramos el JSON para mostrar solo lo que la comunidad necesita ver, ocultando identificadores internos o notas privadas.
 
 10. Funcionamiento general
-
 ¿El proyecto funciona como una herramienta comunitaria básica?
-
-Respuesta:
+Respuesta: SÍ. Cumple con el objetivo de informar de manera clara, dinámica y organizada, sirviendo como vitrina comunitaria.
