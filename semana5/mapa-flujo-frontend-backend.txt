@@ -1,67 +1,36 @@
 Mapa del flujo Frontend-Backend – Clase 23
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Completa el flujo con tus palabras.
 
-1. Frontend
+1. Frontend ¿Qué parte del proyecto corresponde al frontend?
+Respuesta: Los archivos que ve el usuario en su navegador, como index.html, styles.css y app.js.
 
-¿Qué parte del proyecto corresponde al frontend?
+2. Backend ¿Qué parte del proyecto corresponde al backend?
+Respuesta: El servidor configurado con Node.js en el archivo server.js que gestiona las rutas y los datos.
 
-Respuesta:
+3. API propia ¿Qué rutas expone la API propia del proyecto?
+Respuesta: /api/mensajes, /api/calendario y /api/resumen.
 
-2. Backend
+4. Datos ¿Qué archivos JSON usa el backend para responder?
+Respuesta: Usa los archivos ubicados en la carpeta data: mensajes.json y calendario-editorial.json.
 
-¿Qué parte del proyecto corresponde al backend?
+5. Consulta desde frontend ¿Qué función de JavaScript se usa para consultar la API?
+Respuesta: Se utiliza la función fetch().
 
-Respuesta:
+6. Espera de respuesta ¿Qué palabras se usan para esperar la respuesta del servidor?
+Respuesta: Se usan las palabras clave async y await.
 
-3. API propia
+7. Conversión de respuesta ¿Qué hace respuesta.json()?
+Respuesta: Toma la respuesta del servidor (que viene como texto plano) y la convierte en un objeto u arreglo de JavaScript para que podamos manipularlo.
 
-¿Qué rutas expone la API propia del proyecto?
+8. Render dinámico ¿Qué significa mostrar datos dinámicamente en el tablero?
+Respuesta: Significa que el contenido no está escrito fijamente en el HTML, sino que JavaScript crea las etiquetas y las inserta en la pantalla en tiempo real basándose en los datos recibidos.
 
-Respuesta:
+9. Prueba ¿Cómo verificaste que la información del tablero coincide con la API?
+Respuesta: Visitando primero la ruta /api/mensajes directamente en el navegador y luego comprobando que esa misma información es la que se dibuja en las tarjetas del tablero visual.
 
-4. Datos
-
-¿Qué archivos JSON usa el backend para responder?
-
-Respuesta:
-
-5. Consulta desde frontend
-
-¿Qué función de JavaScript se usa para consultar la API?
-
-Respuesta:
-
-6. Espera de respuesta
-
-¿Qué palabras se usan para esperar la respuesta del servidor?
-
-Respuesta:
-
-7. Conversión de respuesta
-
-¿Qué hace respuesta.json()?
-
-Respuesta:
-
-8. Render dinámico
-
-¿Qué significa mostrar datos dinámicamente en el tablero?
-
-Respuesta:
-
-9. Prueba
-
-¿Cómo verificaste que la información del tablero coincide con la API?
-
-Respuesta:
-
-10. Propósito comunitario
-
-¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
-
-Respuesta:
+10. Propósito comunitario ¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
+Respuesta: Permite que el equipo editorial actualice un solo archivo en el servidor y todos los miembros de la comunidad vean los cambios al instante, sin necesidad de reprogramar la página web.

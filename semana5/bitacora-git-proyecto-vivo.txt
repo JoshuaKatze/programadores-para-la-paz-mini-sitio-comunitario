@@ -1,4 +1,4 @@
-Bitácora Git del proyecto vivo – Clase 22
+Bitácora Git del proyecto vivo – Clase 23
 Nombre del estudiante: Joshua Daniel Fernandez Castro
 Fecha: 30/05/2026
 Nombre de la rama: joshua_fernandez
@@ -40,7 +40,7 @@ Respuesta: git status
 Respuesta: git add .
 
 13. Comando usado para crear commit: 
-Respuesta: git commit -m "Clase 22 tablero mensajes accesibilidad"
+Respuesta: git commit -m "Clase 23 integracion frontend backend API propia"
 
 14. Comando usado para publicar tu rama: 
 Respuesta: git push

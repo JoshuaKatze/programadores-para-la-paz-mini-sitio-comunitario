@@ -1,67 +1,36 @@
 Checklist de API propia – Clase 23
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Marca SÍ o NO y explica brevemente.
 
-1. Integración Frontend-Backend
+1. Integración Frontend-Backend ¿El frontend consulta información del backend?
+Respuesta: Sí, a través de las funciones en app.js.
 
-¿El frontend consulta información del backend?
+2. Consumo de la API propia ¿La página usa rutas del mismo proyecto?
+Respuesta: Sí, todas las llamadas van a rutas locales que empiezan con /api/.
 
-Respuesta:
+3. Mensajes dinámicos ¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
+Respuesta: Sí, el contenedor HTML está vacío hasta que se presiona el botón.
 
-2. Consumo de la API propia
+4. Ruta GET /api/mensajes ¿La ruta responde correctamente?
+Respuesta: Sí, devuelve el JSON de mensajes.
 
-¿La página usa rutas del mismo proyecto?
+5. Ruta GET /api/calendario ¿La ruta responde correctamente?
+Respuesta: Sí, devuelve el JSON del calendario editorial.
 
-Respuesta:
+6. Ruta GET /api/resumen ¿La ruta responde correctamente?
+Respuesta: Sí, realiza el conteo matemático y lo envía como JSON.
 
-3. Mensajes dinámicos
+7. Respuesta JSON ¿Las rutas entregan datos estructurados?
+Respuesta: Sí, usan un formato de arreglos y objetos perfectos para JavaScript.
 
-¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
+8. Render dinámico ¿El tablero muestra datos recibidos desde la API?
+Respuesta: Sí, crea elementos <article> por cada objeto recibido.
 
-Respuesta:
+9. Diagnóstico básico ¿Sabes qué revisar si no carga la información?
+Respuesta: Sí, revisaría que el servidor esté encendido (npm run sitio) y que la ruta en el fetch esté bien escrita.
 
-4. Ruta GET /api/mensajes
-
-¿La ruta responde correctamente?
-
-Respuesta:
-
-5. Ruta GET /api/calendario
-
-¿La ruta responde correctamente?
-
-Respuesta:
-
-6. Ruta GET /api/resumen
-
-¿La ruta responde correctamente?
-
-Respuesta:
-
-7. Respuesta JSON
-
-¿Las rutas entregan datos estructurados?
-
-Respuesta:
-
-8. Render dinámico
-
-¿El tablero muestra datos recibidos desde la API?
-
-Respuesta:
-
-9. Diagnóstico básico
-
-¿Sabes qué revisar si no carga la información?
-
-Respuesta:
-
-10. Comunicación responsable
-
-¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
-
-Respuesta:
+10. Comunicación responsable ¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
+Respuesta: Sí, toda la información que viaja mantiene un lenguaje seguro y claro.
