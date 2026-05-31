@@ -1,4 +1,4 @@
-Bitácora Git del proyecto vivo – Clase 21 
+Bitácora Git del proyecto vivo – Clase 22
 Nombre del estudiante: Joshua Daniel Fernandez Castro
 Fecha: 30/05/2026
 Nombre de la rama: joshua_fernandez
@@ -16,7 +16,7 @@ Respuesta: Cada estudiante usa una rama personal con el formato nombres_apellido
 Respuesta: git clone URL_DEL_REPOSITORIO
 
 5. Comando usado para entrar a la carpeta del proyecto: 
-Respuesta: cd programadores-para-la-paz-mini-sitio-comunitario
+Respuesta: (No aplica porque abro la terminal directamente en la carpeta desde VS Code).
 
 6. Comando usado para crear tu rama personal: 
 Respuesta: git checkout -b joshua_fernandez
@@ -40,7 +40,7 @@ Respuesta: git status
 Respuesta: git add .
 
 13. Comando usado para crear commit: 
-Respuesta: git commit -m "Clase 21 inicio proyecto unico mini sitio"
+Respuesta: git commit -m "Clase 22 tablero mensajes accesibilidad"
 
 14. Comando usado para publicar tu rama: 
-Respuesta: git push -u origin joshua_fernandez
+Respuesta: git push

@@ -1,67 +1,36 @@
-Checklist de accesibilidad y seguridad visual – Clase 22
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Checklist de accesibilidad y seguridad visual – Clase 22 
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Marca SÍ o NO y explica brevemente.
 
-1. Tablero de mensajes
+1. Tablero de mensajes ¿La interfaz funciona como vitrina comunitaria clara?
+Respuesta: Sí, centraliza los comunicados en un formato fácil de leer.
 
-¿La interfaz funciona como vitrina comunitaria clara?
+2. Accesibilidad mínima ¿Los títulos son comprensibles y las secciones están separadas?
+Respuesta: Sí, cada bloque funcional tiene un encabezado descriptivo.
 
-Respuesta:
+3. Legibilidad ¿Los textos se pueden leer con facilidad? 
+Respuesta: Sí, el tamaño de la fuente y la disposición evitan la fatiga visual.
 
-2. Accesibilidad mínima
+4. Contraste suficiente ¿El texto se distingue del fondo?
+Respuesta: Sí, el uso de texto oscuro sobre fondos claros garantiza la lectura.
 
-¿Los títulos son comprensibles y las secciones están separadas?
+5. Jerarquía visual ¿Se entiende qué información es principal y qué información es secundaria?
+Respuesta: Sí, los títulos están en negrita y más grandes, mientras que detalles como la "fuente" usan una clase de texto secundario.
 
-Respuesta:
+6. Lenguaje claro ¿Los mensajes son comprensibles para una comunidad general?
+Respuesta: Sí, están redactados sin tecnicismos y van directo al punto.
 
-3. Legibilidad
+7. Organización visual coherente ¿Las tarjetas mantienen una estructura similar?
+Respuesta: Sí, todas comparten los mismos márgenes, bordes y orden de datos.
 
-¿Los textos se pueden leer con facilidad?
+8. Seguridad visual ¿La vista pública evita saturación, confusión o exposición innecesaria?
+Respuesta: Sí, la información respira gracias al espaciado (padding) y no hay saturación de colores.
 
-Respuesta:
+9. Minimización de datos visibles ¿La página muestra solo la información necesaria?
+Respuesta: Sí, los identificadores numéricos y estados de revisión internos no se muestran.
 
-4. Contraste suficiente
-
-¿El texto se distingue del fondo?
-
-Respuesta:
-
-5. Jerarquía visual
-
-¿Se entiende qué información es principal y qué información es secundaria?
-
-Respuesta:
-
-6. Lenguaje claro
-
-¿Los mensajes son comprensibles para una comunidad general?
-
-Respuesta:
-
-7. Organización visual coherente
-
-¿Las tarjetas mantienen una estructura similar?
-
-Respuesta:
-
-8. Seguridad visual
-
-¿La vista pública evita saturación, confusión o exposición innecesaria?
-
-Respuesta:
-
-9. Minimización de datos visibles
-
-¿La página muestra solo la información necesaria?
-
-Respuesta:
-
-10. Lenguaje responsable y no estigmatizante
-
-¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
-
-Respuesta:
+10. Lenguaje responsable y no estigmatizante ¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
+Respuesta: Sí, los mensajes se enfocan en la pedagogía y la convivencia sana.
