@@ -35,4 +35,4 @@ Respuesta: Es una función intermedia que se ejecuta ANTES de llegar a la ruta f
 Respuesta: Porque el token está quemado ("hardcodeado") en el código y no usa encriptación real (como JWT), además de que las contraseñas no están hasheadas en una base de datos.
 
 7. ¿Qué aprendiste sobre rutas públicas y rutas protegidas?
-Respuesta: Aprendí que no toda la información del backend debe ser de libre acceso. Las rutas públicas informan a la comunidad, pero las rutas protegidas son esenciales para la gestión interna y la moderación editorial del equipo.
+Respuesta: Aprendí que no toda la información del backend debe ser de libre acceso. Las rutas públicas informan a la comunidad, pero las rutas protegidas son esenciales para la gestión interna y la moderación editorial del equipo.  
