@@ -1,64 +1,35 @@
 Pruebas de login pedagógico – Clase 24
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
-
-Importante:
-Este login es solo pedagógico. No es autenticación real.
+Importante: Este login es solo pedagógico. No es autenticación real.
 
 Prueba 1: Abrir mini-sitio
-
-Dirección:
-http://localhost:3000
-
-Resultado observado:
-
-¿Funcionó?
-Respuesta:
+Dirección: http://localhost:3000
+Resultado observado: El sitio carga correctamente y muestra la opción de iniciar sesión.
+¿Funcionó? Respuesta: Sí.
 
 Prueba 2: Login con credenciales de demostración
-
-Usuario:
-docente
-
-Clave:
-demo
-
-Resultado esperado:
-El servidor responde con mensaje de login pedagógico correcto.
-
-Resultado observado:
-
-¿Funcionó?
-Respuesta:
+Usuario: docente
+Clave: demo
+Resultado esperado: El servidor responde con mensaje de login pedagógico correcto.
+Resultado observado: El sistema aprueba el ingreso y envía el mensaje de éxito esperado.
+¿Funcionó? Respuesta: Sí.
 
 Prueba 3: Login con clave incorrecta
-
-Usuario:
-docente
-
-Clave:
-incorrecta
-
-Resultado esperado:
-El servidor responde que usuario o clave son incorrectos.
-
-Resultado observado:
-
-¿Funcionó?
-Respuesta:
+Usuario: docente
+Clave: incorrecta
+Resultado esperado: El servidor responde que usuario o clave son incorrectos.
+Resultado observado: Aparece un error rechazando la autenticación por datos inválidos.
+¿Funcionó? Respuesta: Sí.
 
 Prueba 4: Revisar almacenamiento del token de demostración
-
 ¿Qué token de demostración devuelve el servidor?
-
-Respuesta:
+Respuesta: Devuelve un token simulado (una simple cadena de texto) que se almacena en el navegador usando localStorage.setItem.
 
 5. ¿Por qué este token no debe confundirse con seguridad real?
-
-Respuesta:
+Respuesta: Porque es un texto fijo en el código del servidor. No usa bases de datos, no tiene encriptación real ni tiempos de expiración seguros.
 
 6. ¿Para qué se usará este login en la Clase 25?
-
-Respuesta:
+Respuesta: Servirá para simular el acceso restringido a una ruta protegida y entender cómo opera un middleware simple.

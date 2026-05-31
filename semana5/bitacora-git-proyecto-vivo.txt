@@ -1,46 +1,46 @@
-Bitácora Git del proyecto vivo – Clase 23
+Bitácora Git del proyecto vivo – Clase 21, 22, 23 y 24
 Nombre del estudiante: Joshua Daniel Fernandez Castro
 Fecha: 30/05/2026
 Nombre de la rama: joshua_fernandez
 
-1. Nombre del repositorio único de Semana 5: 
+1. Nombre del repositorio único de Semana 5:
 Respuesta: programadores-para-la-paz-mini-sitio-comunitario
 
 2. ¿Qué rama actualizan los docentes?
-Respuesta: La rama main.
+Respuesta: main
 
-3. ¿Qué rama usa cada estudiante para trabajar? 
-Respuesta: Cada estudiante usa una rama personal con el formato nombres_apellidos (en mi caso joshua_fernandez).
+3. ¿Qué rama usa cada estudiante para trabajar?
+Respuesta: La rama personal, en este caso joshua_fernandez.
 
-4. Comando usado para clonar el repositorio: 
+4. Comando usado para clonar el repositorio:
 Respuesta: git clone URL_DEL_REPOSITORIO
 
-5. Comando usado para entrar a la carpeta del proyecto: 
-Respuesta: (No aplica porque abro la terminal directamente en la carpeta desde VS Code).
+5. Comando usado para entrar a la carpeta del proyecto:
+Respuesta: Abro la terminal directamente desde VS Code, sin usar cd.
 
-6. Comando usado para crear tu rama personal: 
+6. Comando usado para crear tu rama personal:
 Respuesta: git checkout -b joshua_fernandez
 
-7. Comando usado para verificar la rama actual: 
+7. Comando usado para verificar la rama actual:
 Respuesta: git branch
 
 8. Comando que se usará desde la Clase 22 para traer cambios de main:
 Respuesta: git pull --ff-only origin main
 
-9. Explica con tus palabras qué significa fast-forward: 
-Respuesta: Es una forma directa de actualizar nuestra rama con los últimos cambios, avanzando de forma lineal sin crear enredos ni commits extra.
+9. Explica con tus palabras qué significa fast-forward:
+Respuesta: Es una actualización directa donde los cambios nuevos se aplican "hacia adelante" sin crear cruces o enredos en el historial.
 
 10. ¿Por qué no se debe trabajar directamente en main?
-Respuesta: Para no dañar la versión estable del proyecto. Trabajar en nuestra propia rama nos da un espacio seguro para probar los cambios.
+Respuesta: Porque main es la versión de producción; usamos ramas personales para evitar romper el proyecto general.
 
-11. Comando usado para revisar cambios al final: 
+11. Comando usado para revisar cambios al final:
 Respuesta: git status
 
-12. Comando usado para agregar cambios: 
+12. Comando usado para agregar cambios:
 Respuesta: git add .
 
-13. Comando usado para crear commit: 
-Respuesta: git commit -m "Clase 23 integracion frontend backend API propia"
+13. Comando usado para crear commit:
+Respuesta: git commit -m "Clase 24 README IA login pedagogico"
 
-14. Comando usado para publicar tu rama: 
+14. Comando usado para publicar tu rama:
 Respuesta: git push

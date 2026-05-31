@@ -1,126 +1,31 @@
-# Programadores para la Paz – Mini-sitio comunitario
+# Mini-Sitio Comunitario - Semana 5
 
-## Proyecto único de Semana 5
-
-Este repositorio se trabaja desde la Clase 21 hasta la Clase 25.
-
-## Propósito del proyecto
-
-Construir progresivamente un mini-sitio comunitario que consuma una API propia para mostrar mensajes, calendario editorial y elementos de seguimiento comunitario.
-
-El proyecto combina tecnología y comunicación responsable para apoyar la difusión de información clara, verificable y orientada a la participación ciudadana.
-
-## Enfoque ciudadano
-
-Este proyecto trabaja:
-
-- Difusión responsable
-- Calendario editorial
-- Revisión de fuentes
-- Consistencia comunicativa
-- Moderación editorial básica
-- Accesibilidad mínima
-- Minimización de datos visibles
-- Lenguaje responsable y no estigmatizante
-- Transferencia tecnológica
-- Documentación como transparencia
-
-## Tecnologías utilizadas
-
-- Node.js
-- Express
-- HTML
-- CSS
-- JavaScript
-- JSON
-- Git
-- GitHub
-
-## Estructura del proyecto
-
-.
-├── server.js
-├── package.json
-├── data/
-│   ├── mensajes.json
-│   └── calendario-editorial.json
-├── public/
-│   ├── index.html
-│   ├── app.js
-│   └── styles.css
-├── semana5/
-└── instrucciones/
+## Propósito
+Este proyecto es un mini-sitio comunitario que consume una API propia para mantener a la comunidad informada de manera responsable, organizada y verificable.
 
 ## Instalación
+1. Clona este repositorio usando Git.
+2. Abre la carpeta del proyecto directamente en tu editor de código (como VS Code).
+3. Abre la terminal integrada e instala las dependencias ejecutando:
+   `npm install`
 
-Clonar el repositorio:
-git clone URL_DEL_REPOSITORIO
-Entrar al proyecto:
-cd programadores-para-la-paz-mini-sitio-comunitario
-Crear rama personal:
-git checkout -b nombres_apellidos
-Instalar dependencias:
-npm install
-Ejecutar el proyecto:
-npm run sitio
-Abrir en el navegador:
-http://localhost:3000
+## Ejecución
+Para levantar el servidor y ver la aplicación, ejecuta el siguiente comando:
+`npm run sitio`
+Luego, abre tu navegador web y entra a: `http://localhost:3000`
 
 ## Rutas de la API
+* `/api/mensajes`: Devuelve la lista de mensajes comunitarios.
+* `/api/calendario`: Devuelve el calendario editorial de 2 semanas.
+* `/api/resumen`: Devuelve las métricas y totales del tablero.
 
-GET /api/mensajes
-Entrega los mensajes comunitarios.
-GET /api/calendario
-Entrega las piezas del calendario editorial.
-GET /api/resumen
-Entrega un resumen básico del proyecto.
-POST /api/login
+## Login Pedagógico
+El proyecto incluye una simulación de acceso para fines educativos y para probar rutas protegidas.
+* **Usuario:** docente
+* **Clave:** demo
 
-## Ruta pedagógica de login
+## Git y Trazabilidad
+El trabajo colaborativo se realiza en ramas personales (por ejemplo, `joshua_fernandez`). Nunca se debe trabajar directamente sobre la rama `main`. Toda la evidencia de trabajo se registra mediante commits claros y "push" a la rama personal.
 
-Importante:
-Esta ruta es solo para aprendizaje. No representa autenticación real ni debe usarse en producción.
-Credenciales de demostración:
-usuario: docente
-clave: demo
-
-## Flujo de trabajo con Git
-
-La rama main es actualizada por docentes.
-Cada estudiante trabaja en su rama personal:
-git checkout nombres_apellidos
-Al iniciar cada clase:
-git checkout main
-git pull --ff-only origin main
-git checkout nombres_apellidos
-git merge main
-Al terminar cada clase:
-git status
-git add .
-git commit -m "Mensaje claro del avance"
-git push
-
-## Uso responsable de IA
-
-La IA puede ayudar a mejorar redacción, organizar pasos y aclarar errores.
-No se debe usar IA para publicar:
-credenciales reales
-tokens reales
-datos personales
-información sensible de la comunidad
-contenido sin verificar
-Toda sugerencia de IA debe revisarse y probarse antes de aceptarse.
-
-## Evidencia
-
-La evidencia se registra únicamente con el push de la rama personal en GitHub.
-No se deben entregar capturas, archivos adicionales ni enlaces por Moodle.
-
-
-
-
-
-
-
-  
-
+## Uso Responsable de IA
+El uso de Inteligencia Artificial en este proyecto se limita a ser un apoyo verificable (por ejemplo, para mejorar redacción o estructurar archivos). **Nunca** se ingresan contraseñas reales, tokens, credenciales de acceso ni información sensible de la comunidad.

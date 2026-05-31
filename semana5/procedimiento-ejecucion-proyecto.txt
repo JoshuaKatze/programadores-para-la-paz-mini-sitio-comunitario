@@ -1,76 +1,54 @@
 Procedimiento de ejecución del proyecto – Clase 24
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Joshua Daniel Fernandez Castro
+Fecha: 30/05/2026
+Nombre de la rama: joshua_fernandez
 
 Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
 
 1. Requisitos del entorno
-
-¿Qué debe tener instalado la persona?
-Ejemplos: Git, Node.js, navegador, editor de código.
-
-Respuesta:
+¿Qué debe tener instalado la persona? Ejemplos: Git, Node.js, navegador, editor de código.
+Respuesta: Para ejecutar este proyecto, necesitas tener instalados Git, Node.js, un editor de código (como VS Code) y un navegador web.
 
 2. Clonar repositorio
-
 Comando:
-
-Respuesta:
+Respuesta: git clone URL_DEL_REPOSITORIO
 
 3. Entrar a la carpeta del proyecto
-
 Comando:
-
-Respuesta:
+Respuesta: Abre VS Code, ve a "Archivo" > "Abrir carpeta" y selecciona la carpeta del proyecto. Luego, abre la terminal integrada (esto evita usar el comando cd).
 
 4. Crear o cambiar a rama personal
-
 Comando:
-
-Respuesta:
+Respuesta: git checkout nombre_apellido (preferiblemente)
 
 5. Instalar dependencias
-
 Comando:
-
-Respuesta:
+Respuesta: npm install
 
 6. Ejecutar el proyecto
-
 Comando:
-
-Respuesta:
+Respuesta: npm run sitio
 
 7. Abrir en navegador
-
 Dirección:
-
-Respuesta:
+Respuesta: http://localhost:3000
 
 8. Probar rutas de la API
-
 Escribe las rutas que se deben probar:
-
-Respuesta:
+Respuesta: 
+- http://localhost:3000/api/mensajes
+- http://localhost:3000/api/calendario
+- http://localhost:3000/api/resumen
 
 9. Probar login pedagógico
-
-Usuario de demostración:
-
-Clave de demostración:
-
-Resultado esperado:
+Usuario de demostración: docente
+Clave de demostración: demo
+Resultado esperado: El sistema debe validar los datos y arrojar un mensaje confirmando el login pedagógico correcto.
 
 10. Verificación final
-
 ¿Cómo sabe la persona que el proyecto está funcionando?
-
-Respuesta:
+Respuesta: Porque al entrar a http://localhost:3000 cargará la interfaz de la página y los botones del tablero mostrarán la información al hacerles clic.
 
 11. Nota de seguridad
-
 ¿Qué información NO debe publicarse?
-
-Respuesta:
+Respuesta: Jamás se deben publicar contraseñas reales, tokens de acceso ni información sensible o privada de la comunidad.

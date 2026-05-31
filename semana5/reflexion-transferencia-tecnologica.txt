@@ -24,4 +24,9 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Documentar un proyecto es un acto de responsabilidad y transparencia. Mediante un README claro, logramos la transferencia
+tecnológica, permitiendo que cualquier miembro de la comunidad entienda la lógica del proyecto. La claridad operativa reduce barreras 
+de entrada, mientras que la trazabilidad en Git, con commits claros, asegura que el historial del trabajo sea visible. Al no incluir 
+credenciales reales y advertir sobre el uso responsable de IA y el apoyo verificable de la misma, protegemos la integridad del equipo. 
+Todo esto construye confianza comunitaria y fomenta una participación ciudadana informada, pilares fundamentales de una verdadera 
+cultura de paz.
